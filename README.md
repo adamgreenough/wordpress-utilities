@@ -9,6 +9,9 @@ to be alerted of new releases.
 2. Upload to your `/wp-content/plugins/` folder
 3. Activate from the Plugins page in your dashboard
 ## Plugins List
+### Disable Comments `adgr-disable-comments.php`
+This mini plugin will remove the Comments menu from the admin menu, admin bar and remove comment support
+on posts and pages. It will not delete existing comments.
 
 ## Contributing
 Got a plugin request or would like to improve an existing one? Pull requests and issues are encouraged.
